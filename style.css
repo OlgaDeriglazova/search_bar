@@ -35,7 +35,7 @@ body {
 }
 
 .search-container.active .search-button {
-    transform: translateX(30vw);
+    transform: translateX(70vw);
 }
 
 .search-field {
@@ -52,7 +52,7 @@ body {
 }
 
 .search-container.active .search-field {
-    width: 30vw;
+    width: 70vw;
     opacity: 0.3;
     color: rgb(2, 29, 21);
 }
